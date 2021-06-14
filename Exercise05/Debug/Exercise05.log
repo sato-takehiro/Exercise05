@@ -1,0 +1,59 @@
+﻿  Exercise05.cpp
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(13,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(14,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(15,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(16,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(17,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(18,15): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(47,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(48,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(49,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(50,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(51,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,3): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,3): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,8): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,13): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(52,13): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(199,55): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(199,40): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(199,25): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(216,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(220,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(224,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(228,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(232,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(236,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(240,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(244,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(248,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(252,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(256,12): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\koishi\Desktop\Exercise05\Exercise05\Exercise05.cpp(260,12): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+  Exercise05.vcxproj -> C:\Users\koishi\Desktop\Exercise05\Debug\Exercise05.exe
